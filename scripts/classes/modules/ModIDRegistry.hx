@@ -20,6 +20,7 @@ class ModIDRegistry
         for (folder in entries)
         {
             var dataPath = "mods/" + folder + "/data.json";
+            //labubu
 
             if (FileSystem.exists(dataPath))
             {
