@@ -9,6 +9,7 @@ READ THE WIKI
 ![ModID Registry Version](https://img.shields.io/badge/ModID%20Registry-1.0-blue)
 [![ALE Psych Engine](https://img.shields.io/badge/ALE%20Psych-Engine%20Repo-green)](https://github.com/ALE-Psych-Crew/ALE-Psych)
 
+<img width="1280" height="720" alt="New Project" src="https://github.com/user-attachments/assets/dbea2eae-1d65-4272-b018-22f055ad6ddd" />
 
 ModIDRegistry reads the `modID` from every mod's `data.json` and exposes a stable API for HScript and Lua.
 
