@@ -1,4 +1,4 @@
-package modules;
+package;
 
 import sys.FileSystem;
 import haxe.Json;
